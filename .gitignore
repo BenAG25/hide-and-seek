@@ -1,0 +1,31 @@
+# Unreal Engine Standard Ignores
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+DataDrivenDevelopment/
+*.o
+*.obj
+
+# Visual Studio / IDEs
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+.idea/
+.vscode/
+
+# Mac OS spezifische Junk-Dateien
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows spezifische Junk-Dateien
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

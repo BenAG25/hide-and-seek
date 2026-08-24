@@ -3,6 +3,7 @@ Binaries/
 Build/
 Intermediate/
 Saved/
+Windows/
 DerivedDataCache/
 DataDrivenDevelopment/
 *.o
